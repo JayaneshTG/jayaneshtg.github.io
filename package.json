@@ -11,10 +11,10 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/resume",
+  "homepage": "https://github.com/JayaneshTG/resume",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "https://github.com/JayaneshTG/resume/issues",
+    "email": "jayaneshtg@gmail.com"
   },
   "license": "MIT",
   "author": "Start Bootstrap",
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
+    "url": "https://github.com/JayaneshTG/resume.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
